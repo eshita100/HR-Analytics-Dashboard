@@ -66,46 +66,5 @@ The dataset contains employee-level HR data, including:
 
 - <a href="https://github.com/eshita100/HR-Analytics-Dashboard/blob/main/HR%20Dashboard.png">Dataset</a>
 
----
 
-## 🚀 How to Use
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/hr-analytics-dashboard.git
-   ```
-2. Open the Power BI file (if included) or import `HR_Analytics.csv` into Power BI.
-3. Explore insights using slicers (Department, Gender).
-
----
-
-## 🔍 Key Insights
-
-* Employees aged **26–35** show the highest attrition
-* **Lower salary bands** experience significantly higher turnover
-* **Laboratory Technicians and Sales Executives** have the highest attrition counts
-* Male attrition is higher compared to female employees
-
----
-
-## 📌 Future Enhancements
-
-* Predictive attrition modeling using Machine Learning
-* Department-wise performance analytics
-* Integration with real-time HR databases
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
----
-
-## 📧 Contact
-
-**Author:** Eshita
-**Role:** Data Analyst
-
-If you

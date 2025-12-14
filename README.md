@@ -27,8 +27,8 @@ The dataset contains employee-level HR data, including:
 * Attrition status
 * Years at company
 
-**Dataset file:** `HR_Analytics.csv`
-
+**Dataset file:
+- <a href="https://github.com/eshita100/HR-Analytics-Dashboard/blob/main/HR%20Dashboard.png">Dataset</a>
 ---
 
 ## 📊 Dashboard Features

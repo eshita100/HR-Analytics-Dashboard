@@ -28,7 +28,7 @@ The dataset contains employee-level HR data, including:
 * Years at company
 
 **Dataset file:
-- <a href="https://github.com/eshita100/HR-Analytics-Dashboard/blob/main/HR%20Dashboard.png">Dataset</a>
+- <a href="https://github.com/eshita100/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv">Dataset</a>
 ---
 
 ## 📊 Dashboard Features

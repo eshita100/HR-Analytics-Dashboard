@@ -64,7 +64,7 @@ The dataset contains employee-level HR data, including:
 
 ## 📷 Dashboard Preview
 
-- <a href="https://github.com/eshita100/HR-Analytics-Dashboard/blob/main/HR%20Dashboard.png">Dashboard</a>
+- <a href="https://github.com/eshita100/HR-Analytics-Dashboard/blob/main/HR%20Dashboard1.png">Dashboard</a>
 <img width="1368" height="764" alt="image" src="https://github.com/user-attachments/assets/8132ab83-9f95-452d-a979-a6400ff2f731" />
 
 
